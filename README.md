@@ -11,6 +11,7 @@ Tested on:
 
 - Ubuntu 14.04 with Bash
 - Fedora 30 with ZSH
+- Linux Mint 19.3 ZSH & BASH
 
 ## Usage:
 
