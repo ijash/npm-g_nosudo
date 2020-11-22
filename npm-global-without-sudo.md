@@ -1,3 +1,4 @@
+Copied from [sindresorhus's github](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md).
 # Install `npm` packages globally without sudo on macOS and Linux
 
 `npm` installs packages locally within your projects by default. You can also install packages globally (e.g. `npm install -g <package>`) (useful for command-line apps). However the downside of this is that you need to be root (or use `sudo`) to be able to install globally.
