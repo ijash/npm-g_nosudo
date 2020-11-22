@@ -23,7 +23,7 @@ or
 wget -O- https://raw.githubusercontent.com/glenpike/npm-g_nosudo/master/npm-g-nosudo.sh | sh
 ```
 
-If you run the former command (rather than the wget version), the script will give you the option to fix your .bashrc or .zshrc file(s) automatically to use the settings from [Sindre Sorhus' Guide](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+If you run the former command (rather than the wget version), the script will give you the option to fix your .bashrc or .zshrc file(s) automatically to use the settings from [Sindre Sorhus' Guide](npm-global-without-sudo.md)
 
 If you say "n", it will print the variables you need to enable you to fix manually.
 
